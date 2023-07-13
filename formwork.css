@@ -1,0 +1,80 @@
+.first{
+    height: 3500px;
+    background-image: url(bg-01.jpg);
+    background-repeat: no-repeat;
+ width: 2200px;
+padding: 2px;
+margin-left: 1600px;
+margin-top: 2%;
+
+ 
+    
+    background-size: cover;
+}
+.h1{
+    font-size:75px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(249, 251, 253);
+    text-align: center;
+    margin-top: 1200px;
+    margin-right: 800px;
+}
+.second{
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+    color: rgb(249, 251, 253);
+     text-align: center;
+   margin-top: 100px;
+   margin-right: 5px;
+}
+.third{
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+color: rgb(249, 251, 253);
+     text-align: center;
+   margin-top: 30px;
+   margin-right: 380px;
+
+}
+.one{
+    font-size:75px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(249, 251, 253);
+    text-align: center;
+    margin-top: 200px;
+    margin-right:750px;
+
+}
+.two{
+    font-size:60px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(11, 189, 46);
+    text-align: center;
+    margin-top: 100px;
+    margin-right:650px;
+
+}
+.three{
+    font-size:75px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(249, 251, 253);
+    text-align: center;
+    margin-top: 200px;
+    margin-right:500px;
+
+}
+.four{
+    font-size:60px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(11, 189, 46);
+    text-align: center;
+    margin-top: 100px;
+    margin-right:450px;
+
+}
+.img1{
+   width: 100px;
+    
+   
+}
+
