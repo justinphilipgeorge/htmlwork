@@ -1,80 +1,111 @@
 .first{
-    height: 3500px;
+    height: 800px; 
     background-image: url(bg-01.jpg);
     background-repeat: no-repeat;
- width: 2200px;
-padding: 2px;
-margin-left: 1600px;
+  width: 2200px; 
+padding: 10px;
+ margin-left: 250px; 
 margin-top: 2%;
 
  
     
-    background-size: cover;
+    background-size:contain;
 }
 .h1{
-    font-size:75px;
+    font-size:24px;
     font-family: 'Poppins', sans-serif;
     color: rgb(249, 251, 253);
     text-align: center;
-    margin-top: 1200px;
-    margin-right: 800px;
+    margin-top: 180px;
+    margin-right: 1890px;
 }
 .second{
     font-family: 'Poppins', sans-serif;
-    font-size: 60px;
+    font-size: 17px;
     color: rgb(249, 251, 253);
-     text-align: center;
-   margin-top: 100px;
-   margin-right: 5px;
+   text-align:center;
+   margin-top:40px;
+   margin-right: 1680px;
+   
 }
 .third{
     font-family: 'Poppins', sans-serif;
-    font-size: 60px;
+    font-size: 17px;
 color: rgb(249, 251, 253);
      text-align: center;
-   margin-top: 30px;
-   margin-right: 380px;
+   margin-top:5px;
+   margin-right: 1785px;
 
 }
 .one{
-    font-size:75px;
+    font-size:24px;
     font-family: 'Poppins', sans-serif;
     color: rgb(249, 251, 253);
     text-align: center;
-    margin-top: 200px;
-    margin-right:750px;
+    margin-top: 50px;
+    margin-right:1900px;
 
 }
 .two{
-    font-size:60px;
+    font-size:17px;
     font-family: 'Poppins', sans-serif;
     color: rgb(11, 189, 46);
     text-align: center;
-    margin-top: 100px;
-    margin-right:650px;
+    margin-top: 25px;
+    margin-right:1855px;
 
 }
 .three{
-    font-size:75px;
+    font-size:24px;
     font-family: 'Poppins', sans-serif;
     color: rgb(249, 251, 253);
     text-align: center;
-    margin-top: 200px;
-    margin-right:500px;
+    margin-top: 50px;
+    margin-right:1830px;
 
 }
 .four{
-    font-size:60px;
+    font-size:17px;
     font-family: 'Poppins', sans-serif;
     color: rgb(11, 189, 46);
     text-align: center;
-    margin-top: 100px;
-    margin-right:450px;
+    margin-top: 25px;
+    margin-right:1805px;
 
 }
 .img1{
-   width: 100px;
-    
+   width: 20px;
    
 }
+.img2{
+    width: 15px;
+}
+.img3{
+    width: 17px;
+}
+.form{
+    
+    margin-left: 850px;
+    margin-top: -800px;
+   
+}
+input{
+    padding: 20px;
+    
+}
+.submit{
+    
+    color: rgb(241, 245, 241);
+    background-color: rgb(15, 190, 15);
+    padding: 10px;
+
+}
+ .svg{
+    text-align: center;
+    font-size: 40px;
+    margin-right: 600px;
+   margin-bottom: 50px;
+   
+    
+} 
 
