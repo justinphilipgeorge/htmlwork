@@ -57,5 +57,25 @@ a.five{
 .hh{
   color: aliceblue;
 }
+.f8{
+  color: antiquewhite;
+}
+.f10{
+  background-color: black;
+}
+.f11{
+  width: 30px;
+}
+.f12{
+  color: antiquewhite;
+  margin-left: 115px;
 
+}
+.f14{
+margin-top: 700px;
+margin-left: 800px;
+}
+.f15{
+  margin-left: 270px;
+}
 
